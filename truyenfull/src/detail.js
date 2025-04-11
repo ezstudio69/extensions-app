@@ -22,17 +22,19 @@
         }
 
         return JSON.stringify(
-                success: true,
-                data: {
-                    name: document.querySelector("h3.title")?.textContent || "",
-                    cover: document.querySelector("div.book img")?.getAttribute("src") || "",
-                    author: document.querySelector("div.info div a")?.textContent || "",
-                    description: document.querySelector("div.desc-text")?.innerHTML || "",
-                    detail: "",
-                    ongoing: (document.querySelector("div.info")?.innerHTML || "").includes(">Đang ra<"),
-                    genres: genres,
-                    suggests: suggests,
-                    host: "https://truyenfull.vision"
+                {
+                    success: true,
+                    data: {
+                        name: document.querySelector("h3.title")?.textContent || "",
+                        cover: document.querySelector("div.book img")?.getAttribute("src") || "",
+                        author: document.querySelector("div.info div a")?.textContent || "",
+                        description: document.querySelector("div.desc-text")?.innerHTML || "",
+                        detail: "",
+                        ongoing: (document.querySelector("div.info")?.innerHTML || "").includes(">Đang ra<"),
+                        genres: genres,
+                        suggests: suggests,
+                        host: "https://truyenfull.vision"
+                    }
                 }
             );
     } catch (error) {
