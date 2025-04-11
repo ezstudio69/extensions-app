@@ -5,8 +5,8 @@
         "source": "truyenfull",
         "url": "https://truyenfull.vision",
         "version": 1,
-        "cover": "https://raw.githubusercontent.com/ezstudio69/extensions-ios/refs/heads/main/truyenfull/icon.png",
-        "download": "https://raw.githubusercontent.com/ezstudio69/extensions-ios/refs/heads/main/truyenfull/truyenfull.zip"
+        "cover": "https://raw.githubusercontent.com/ezstudio69/extensions-app/refs/heads/main/truyenfull/icon.png",
+        "download": "https://raw.githubusercontent.com/ezstudio69/extensions-app/refs/heads/main/truyenfull/truyenfull.zip"
     },
     {
         "name": "Truyện CV",
@@ -14,7 +14,7 @@
         "source": "truyencv",
         "url": "https://metruyencv.com/",
         "version": 1,
-        "cover": "https://raw.githubusercontent.com/ezstudio69/extensions-ios/refs/heads/main/truyencv/icon.png",
-        "download": "https://raw.githubusercontent.com/ezstudio69/extensions-ios/refs/heads/main/truyencv/truyencv.zip"
+        "cover": "https://raw.githubusercontent.com/ezstudio69/extensions-app/refs/heads/main/truyencv/icon.png",
+        "download": "https://raw.githubusercontent.com/ezstudio69/extensions-app/refs/heads/main/truyencv/truyencv.zip"
     }
 ]
