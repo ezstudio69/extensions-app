@@ -7,13 +7,11 @@
         {title: "Kiếm Hiệp Hay", input: "https://truyenfull.vision/danh-sach/kiem-hiep-hay/", page: "trang-", script: "gen.js"},
         {title: "Truyện Teen Hay", input: "https://truyenfull.vision/danh-sach/truyen-teen-hay/", page: "trang-", script: "gen.js"},
         {title: "Ngôn Tình Hay", input: "https://truyenfull.vision/danh-sach/ngon-tinh-hay/", page: "trang-", script: "gen.js"},
-        {title: "Ngôn Tình Sắc", input: "https://truyenfull.vision/danh-sach/ngon-tinh-sac/", page: "trang-", script: "gen.js"},
         {title: "Ngôn Tình Ngược", input: "https://truyenfull.vision/danh-sach/ngon-tinh-nguoc/", page: "trang-", script: "gen.js"},
         {title: "Ngôn Tình Sủng", input: "https://truyenfull.vision/danh-sach/ngon-tinh-sung/", page: "trang-", script: "gen.js"},
         {title: "Ngôn Tình Hài", input: "https://truyenfull.vision/danh-sach/ngon-tinh-hai/", page: "trang-", script: "gen.js"},
         {title: "Đam Mỹ Hài", input: "https://truyenfull.vision/danh-sach/dam-my-hai/", page: "trang-", script: "gen.js"},
         {title: "Đam Mỹ Hay", input: "https://truyenfull.vision/danh-sach/dam-my-hay/", page: "trang-", script: "gen.js"},
-        {title: "Đam Mỹ H Văn", input: "https://truyenfull.vision/danh-sach/dam-my-h-van/", page: "trang-", script: "gen.js"},
         {title: "Đam Mỹ Sắc", input: "https://truyenfull.vision/danh-sach/dam-my-sac/", page: "trang-", script: "gen.js"}
     ];
     return JSON.stringify({success: true, data: data});
